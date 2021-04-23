@@ -25,6 +25,7 @@
 * [Carbonalyser](https://github.com/carbonalyser/Carbonalyser):  The add-on "Carbonalyser" allows to visualize the electricity consumption and greenhouse gases (GHG) emissions that your Internet browsing leads to.
 * [GreenIt Analysis](https://addons.mozilla.org/fr/firefox/addon/greenit-analysis/):  Measure [EcoIndex](www.ecoindex.fr) and check [ecometer best practice](www.ecometer.org)
 * [Ecosia](https://www.ecosia.org): Surfez sur le web tout en plantant des arbres
+* [Penguin Data Calculator](https://chrome.google.com/webstore/detail/penguin-data-calculator/boejlechbbpjbhgjgmbfkofpmnggcdgk) Merge de Green-it Analysis et Carbonalyser avec une meilleure UI
 
 ## Resources :
 
