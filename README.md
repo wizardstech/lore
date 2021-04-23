@@ -8,7 +8,7 @@ Pour contribuer à Lore:
 
 Clonez tout d'abord le repo :
 ```bash
-git clone github.com/wizardstech/spells
+git clone github.com/wizardstech/lore
 ```
 
 Rajoutez tous ce que vous voulez sur **Lore** et soumettez une merge request !
