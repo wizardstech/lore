@@ -23,6 +23,8 @@
 
 ### Javascript
 
+* [Faker.js](https://github.com/Marak/faker.js)
+
 #### Express
 
 

@@ -28,8 +28,15 @@
 * [Dainte](https://github.com/nathancahill/dainte) : Painless testing for Svelte components
 * [Svelte Routing](https://github.com/EmilTholin/svelte-routing) : A declarative Svelte routing library with SSR support
 * [Svelte Portal](https://github.com/romkor/svelte-portal) : Svelte component for rendering outside the DOM of parent component
+* [Svelte Select](https://github.com/rob-balfre/svelte-select) : A select component for Svelte apps
 
 ### React-Native
 
 
 ### Flutter
+
+### Jamstack
+
+* [Docsify](https://docsify.js.org): A magical documentation site generator.
+* [Gatbsy](https://www.gatsbyjs.com/): The fastest frontend for the modern web
+
