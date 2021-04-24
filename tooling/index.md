@@ -16,8 +16,8 @@
 
 * [Quick Database Diagrams](https://app.quickdatabasediagrams.com): permet de créer des schemas de base de donnée rapidement
 * [Diagrams.net](https://www.diagrams.net/): Security-first diagramming for teams.
+* [draw.io desktop](https://github.com/jgraph/drawio-desktop)
 * [Docsify](https://docsify.js.org): A magical documentation site generator.
-* [Gatbsy](https://www.gatsbyjs.com/): The fastest frontend for the modern web
 
 ## Outils green it
 

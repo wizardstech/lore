@@ -9,3 +9,4 @@
 * [nx](https://nx.dev/): Powerful, Extensible Dev Tools
 * [orval](https://orval.dev/): Generate client with appropriate type-signatures
 * [mswjs](https://mswjs.io/): API mocking of the next generation
+* [pnpm](https://pnpm.io/): Fast, disk space efficient package manager
